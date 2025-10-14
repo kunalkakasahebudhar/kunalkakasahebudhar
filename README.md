@@ -39,3 +39,9 @@
 ### 💡 Fun Fact:
 > "The best way to learn to code is by building — so I'm building my future, one project at a time!"
 
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kunalkakasahebudhar&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
+</p>
+
