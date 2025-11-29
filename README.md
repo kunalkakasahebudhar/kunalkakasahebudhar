@@ -23,6 +23,14 @@
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kunalkakasahebudhar&theme=gruvbox&no-frame=true&margin-w=10" />
+</p>
+
+---
+
 ### 📬 Connect with Me:
 - 📧 Email: [kudhar892@gmail.com](mailto:kudhar892@gmail.com)
 - 💼 LinkedIn: [Kunal Udhar](https://www.linkedin.com/in/kunal-udhar-99a6ba32b)
